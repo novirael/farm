@@ -1,0 +1,3397 @@
+Na 10000 rozgrywek:
+{'Monika': 2439, 'Pawel': 2592, 'Asia': 2478, 'Rafal': 2491}
+
+Przykładowa rozgrywka:
+##### Tura 0 #####
+Gracz Asia wyrzucil lis oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 1 #####
+Gracz Asia wyrzucil owca oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil kon oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 2 #####
+Gracz Asia wyrzucil swinka oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 3 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 4 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 5 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 6 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz swinka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krowka
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 7 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 8 #####
+Gracz Asia wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 9 #####
+Gracz Asia wyrzucil owca oraz krowka
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz swinka
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 10 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 11 #####
+Gracz Asia wyrzucil owca oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 12 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 13 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 14 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 15 #####
+Gracz Asia wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 16 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 17 #####
+Gracz Asia wyrzucil lis oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 18 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz swinka
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 19 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil lis oraz swinka
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 20 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 21 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 22 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 23 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 24 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 25 #####
+Gracz Asia wyrzucil swinka oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 26 #####
+Gracz Asia wyrzucil kon oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil kon oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 27 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Rafal wyrzucil lis oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 28 #####
+Gracz Asia wyrzucil kon oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Rafal wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 29 #####
+Gracz Asia wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil kon oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 1
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 30 #####
+Gracz Asia wyrzucil lis oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 31 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 32 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz krowka
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 33 #####
+Gracz Asia wyrzucil swinka oraz swinka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil krolik oraz swinka
+owca      -> 2
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 34 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil owca oraz krowka
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 35 #####
+Gracz Asia wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil owca oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 36 #####
+Gracz Asia wyrzucil kon oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 37 #####
+Gracz Asia wyrzucil owca oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 38 #####
+Gracz Asia wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz swinka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 1
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krowka
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 39 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 1
+krowka    -> 1
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 40 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 2
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 41 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 42 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 1
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 43 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz swinka
+owca      -> 1
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 44 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 2
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 45 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil kon oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 46 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 47 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 2
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz swinka
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 1
+swinka    -> 0
+
+##### Tura 48 #####
+Gracz Asia wyrzucil lis oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 49 #####
+Gracz Asia wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz swinka
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 2
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 50 #####
+Gracz Asia wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 2
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 51 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil owca oraz swinka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 1
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krowka
+owca      -> 2
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 52 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz wilk
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 53 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz swinka
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 54 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 55 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 56 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 1
+swinka    -> 0
+
+##### Tura 57 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz swinka
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil kon oraz krowka
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 58 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil kon oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 59 #####
+Gracz Asia wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz wilk
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 60 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil kon oraz krolik
+owca      -> 1
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 61 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 2
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 62 #####
+Gracz Asia wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil swinka oraz krolik
+owca      -> 2
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 63 #####
+Gracz Asia wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz owca
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil owca oraz krowka
+owca      -> 3
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 64 #####
+Gracz Asia wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz swinka
+owca      -> 3
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 65 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil kon oraz owca
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 3
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Rafal wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 66 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz wilk
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 3
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 67 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz krowka
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 1
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 3
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 68 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz owca
+owca      -> 3
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 1
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 69 #####
+Gracz Asia wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz swinka
+owca      -> 3
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 2
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 70 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krowka
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil swinka oraz krowka
+owca      -> 3
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 3
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 71 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 3
+krolik    -> 9
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 3
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 72 #####
+Gracz Asia wyrzucil owca oraz owca
+owca      -> 1
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 2
+krolik    -> 1
+kon       -> 0
+maly pies -> 1
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 4
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 3
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+
+##### Tura 73 #####
+Gracz Asia wyrzucil kon oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 5
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 4
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 74 #####
+Gracz Asia wyrzucil owca oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz wilk
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 6
+krolik    -> 9
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 0
+swinka    -> 5
+Gracz Rafal wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 75 #####
+Gracz Asia wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz swinka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 5
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 2
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 76 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil kon oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz krowka
+owca      -> 4
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 3
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 77 #####
+Gracz Asia wyrzucil kon oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 4
+krolik    -> 9
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 3
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 78 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil kon oraz krowka
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz wilk
+owca      -> 3
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krowka
+owca      -> 2
+krolik    -> 0
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+
+##### Tura 79 #####
+Gracz Asia wyrzucil krolik oraz swinka
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 2
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 3
+krowka    -> 1
+swinka    -> 1
+Gracz Rafal wyrzucil lis oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 80 #####
+Gracz Asia wyrzucil kon oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz wilk
+owca      -> 2
+krolik    -> 9
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 81 #####
+Gracz Asia wyrzucil lis oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil kon oraz krowka
+owca      -> 2
+krolik    -> 9
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 82 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 0
+Gracz Monika wyrzucil lis oraz krolik
+owca      -> 1
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 3
+krowka    -> 1
+swinka    -> 1
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 83 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 1
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 2
+krolik    -> 7
+kon       -> 0
+maly pies -> 2
+duzy pies -> 3
+krowka    -> 1
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 84 #####
+Gracz Asia wyrzucil krolik oraz swinka
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+Gracz Pawel wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 4
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 3
+krowka    -> 1
+swinka    -> 1
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 85 #####
+Gracz Asia wyrzucil owca oraz krowka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil owca oraz krowka
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil kon oraz swinka
+owca      -> 4
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 3
+krowka    -> 1
+swinka    -> 2
+Gracz Rafal wyrzucil swinka oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 86 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 2
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 4
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 3
+krowka    -> 1
+swinka    -> 2
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 87 #####
+Gracz Asia wyrzucil swinka oraz krowka
+owca      -> 0
+krolik    -> 4
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 1
+swinka    -> 0
+Gracz Monika wyrzucil krolik oraz wilk
+owca      -> 5
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 2
+Gracz Rafal wyrzucil owca oraz krowka
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 88 #####
+Gracz Asia wyrzucil swinka oraz krolik
+owca      -> 1
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 1
+swinka    -> 0
+Gracz Pawel wyrzucil owca oraz krowka
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 1
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 6
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 4
+Gracz Rafal wyrzucil krolik oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 89 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 1
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 1
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 7
+krolik    -> 9
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 5
+Gracz Rafal wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 90 #####
+Gracz Asia wyrzucil owca oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil swinka oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 2
+Gracz Monika wyrzucil kon oraz krolik
+owca      -> 6
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 3
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 91 #####
+Gracz Asia wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz owca
+owca      -> 8
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 4
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 92 #####
+Gracz Asia wyrzucil kon oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 1
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 7
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 1
+swinka    -> 2
+Gracz Monika wyrzucil swinka oraz wilk
+owca      -> 7
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 4
+Gracz Rafal wyrzucil owca oraz wilk
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 93 #####
+Gracz Asia wyrzucil swinka oraz owca
+owca      -> 0
+krolik    -> 0
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil owca oraz krowka
+owca      -> 2
+krolik    -> 7
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 5
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 5
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 94 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 1
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil krolik oraz owca
+owca      -> 4
+krolik    -> 5
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 2
+Gracz Monika wyrzucil krolik oraz krolik
+owca      -> 3
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 3
+swinka    -> 3
+Gracz Rafal wyrzucil krolik oraz owca
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 95 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 4
+krolik    -> 8
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 2
+Gracz Monika wyrzucil swinka oraz owca
+owca      -> 3
+krolik    -> 2
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 4
+swinka    -> 3
+Gracz Rafal wyrzucil owca oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 96 #####
+Gracz Asia wyrzucil lis oraz krolik
+owca      -> 0
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil kon oraz krolik
+owca      -> 5
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 2
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 3
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 4
+swinka    -> 4
+Gracz Rafal wyrzucil krolik oraz krowka
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 97 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 0
+krolik    -> 5
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil owca oraz owca
+owca      -> 6
+krolik    -> 6
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 3
+Gracz Monika wyrzucil kon oraz owca
+owca      -> 3
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 4
+swinka    -> 5
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 98 #####
+Gracz Asia wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 2
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 4
+krolik    -> 10
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 4
+Gracz Monika wyrzucil owca oraz owca
+owca      -> 3
+krolik    -> 3
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 5
+swinka    -> 3
+Gracz Rafal wyrzucil krolik oraz krolik
+owca      -> 1
+krolik    -> 4
+kon       -> 0
+maly pies -> 0
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 0
+
+##### Tura 99 #####
+Gracz Asia wyrzucil krolik oraz krowka
+owca      -> 1
+krolik    -> 3
+kon       -> 0
+maly pies -> 1
+duzy pies -> 0
+krowka    -> 0
+swinka    -> 2
+Gracz Pawel wyrzucil krolik oraz krolik
+owca      -> 5
+krolik    -> 10
+kon       -> 0
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 2
+swinka    -> 4
+Gracz Monika wyrzucil owca oraz krolik
+owca      -> 3
+krolik    -> 5
+kon       -> 1
+maly pies -> 2
+duzy pies -> 2
+krowka    -> 3
+swinka    -> 4
+
+Wygrany  Monika
